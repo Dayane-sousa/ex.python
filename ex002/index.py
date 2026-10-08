@@ -1,2 +1,2 @@
-usuario = input('qual o seu nome?')
-print('bem-vindo! ', usuario)
+nome = input('qual seu nome? ')
+print('Seja bem-vindo!' , nome)
